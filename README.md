@@ -25,7 +25,7 @@ Tool Integration
 Technologies & Tools
 OpenAI API
 Python
-LangChain (basic/intermediate)
+LangChain (intermediate)
 
 API Integration
 
